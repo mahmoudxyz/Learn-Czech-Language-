@@ -5,8 +5,8 @@
 Czech is a fascinating and rich Slavic language spoken primarily in the Czech Republic, nestled in the heart of Central Europe. As you embark on your journey to master Czech, let's explore some key aspects of this beautiful language. 
 
 
-
-## Alphabet
+## A0
+### Alphabet
 
 | Letter | Pronunciation |
 |--------|---------------|
@@ -55,7 +55,7 @@ Czech is a fascinating and rich Slavic language spoken primarily in the Czech Re
 
 See the pronounce [here](https://youtu.be/js7uAvU1q5I?si=m8eFU5vBOiVanRN4) 
 
-## Numbers 1..10
+### Numbers 1..10
 
 | Czech | - |
 | ---- | ---- |
@@ -71,7 +71,7 @@ See the pronounce [here](https://youtu.be/js7uAvU1q5I?si=m8eFU5vBOiVanRN4)
 | 10 | deset |
 See the pronounce [here](https://youtu.be/Ppcf_03ljKI?si=I_RZgtdn57O5S5T4) 
 
-## Být - be
+### Být - be
 
 | Tense    | Pronoun | Czech (verb) | English    |
 |----------|---------|--------------|------------|
