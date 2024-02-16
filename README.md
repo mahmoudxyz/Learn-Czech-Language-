@@ -59,6 +59,7 @@ See the pronounce [here](https://youtu.be/js7uAvU1q5I?si=m8eFU5vBOiVanRN4)
 
 | Czech | - |
 | ---- | ---- |
+| 0 | nula |
 | 1 | jedna |
 | 2 | dvě |
 | 3 | tři |
@@ -70,7 +71,20 @@ See the pronounce [here](https://youtu.be/js7uAvU1q5I?si=m8eFU5vBOiVanRN4)
 | 9 | devět |
 | 10 | deset |
 See the pronounce [here](https://youtu.be/Ppcf_03ljKI?si=I_RZgtdn57O5S5T4) 
-
+### Numbers 11..2
+| Číslo | Number  | Rule for Ending      |
+|-------|---------|----------------------|
+| 11    | jedenáct | -náct (add to ten)   |
+| 12    | dvanáct | -náct (add to ten)   |
+| 13    | třináct | -náct (add to ten)   |
+| 14    | čtrnáct | -náct (add to ten)   |
+| 15    | patnáct | -náct (add to ten)   |
+| 16    | šestnáct| -náct (add to ten)   |
+| 17    | sedmnáct| -náct (add to ten)   |
+| 18    | osmnáct | -náct (add to ten)   |
+| 19    | devatenáct| -náct (add to ten) |
+| 20    | dvacet  | - (no special ending)|
+See the pronounce [here](https://youtu.be/R9hdkAW1ulU?si=UtqFQgN3UgiMduLT)
 ### Být - be
 
 | Tense    | Pronoun | Czech (verb) | English    |
@@ -99,6 +113,27 @@ See the pronounce [here](https://youtu.be/Ppcf_03ljKI?si=I_RZgtdn57O5S5T4)
 |          | ona     | bude         | she will be  |
 |          | ono     | bude         | it will be   |
 |          | oni     | budou        | they will be |
+
+### Hello
+
+| Czech | English | Formal? |
+| ---- | ---- | ---- |
+| Ahoj | Hello | No |
+| Dobrý den | Good day | Yes |
+| Dobré ráno | Good morning | Yes |
+| Dobré odpoledne | Good afternoon | Yes |
+| Dobrý večer | Good evening | Yes |
+| Dobrou noc | Good night | Yes |
+| Rád vás poznávám | Nice to meet you | Yes |
+| Na shledanou | Goodbye | Yes |
+| Jak se máš? | How are you? | No |
+| Jmenuji se... | My name is... | No |
+| Těší mě | Nice to meet you | No |
+| Děkuji | Thank you | No |
+| Prosím | Please | No |
+
+See the pronounce [here](https://youtu.be/HU4nYgFdVtA?si=W5VGNMFALe7jGg0c) and [here](https://youtu.be/P0bkUujzqtc?si=_xKGnLB6aX_JPQEN) and [here](https://youtu.be/eIoWHmfFlp4?si=3vUAWy-E3xsKdQbM)
+
 ### Family vocabulary 
 | CZ | Slang | EN |
 | ---- | ---- | ---- |
