@@ -1,67 +1,57 @@
-## Content 
-1. A0
-	1. Introduction 
-	2. Alphabet
-	3. Numbers 1..10
-	4. Být
-	5. Family vocabulary
-	6. Day vocabulary
-	7. omlouvat se
-	8. to see
-	9. vidět
-	10. zeptat se
-	11. to sit" (sedět)
+
 
 ## Introduction 
 
 Czech is a fascinating and rich Slavic language spoken primarily in the Czech Republic, nestled in the heart of Central Europe. As you embark on your journey to master Czech, let's explore some key aspects of this beautiful language. 
 
-Czech has complex system of noun declension and verb conjugation, which adds depth and nuance to the language. Furthermore, Czech pronunciation is characterized by its distinctive sounds and accents, offering both challenges and rewards for learners.
+
 
 ## Alphabet
 
-A a - [ah] as in "father"
-Á á - [ah] as in "father" (longer duration)
-B b - [beh] as in "boy"
-C c - [tseh] as in "tsar"
-Č č - [ch] as in "cheese"
-D d - [deh] as in "dog"
-Ď ď - [dyeh] as in "dune" (with a soft "d" sound)
-E e - [eh] as in "bed"
-É é - [eh] as in "bed" (longer duration)
-Ě ě - [yeh] as in "yes" (soft "e" sound)
-F f - [ef] as in "fox"
-G g - [geh] as in "go"
-H h - [hah] as in "house"
-Ch ch - [kh] 
-I i - [ee] as in "feet"
-Í í - [ee] as in "feet" (longer duration)
-J j - [yot] as in "yes"
-K k - [kah] as in "key"
-L l - [ell] as in "lion"
-M m - [em] as in "man"
-N n - [en] as in "no"
-Ň ň - [nyeh] as in "canyon" (with a soft "n" sound)
-O o - [oh] as in "boat"
-Ó ó - [oh] as in "boat" (longer duration)
-P p - [peh] as in "pen"
-Q q - [kuh] (rarely used, usually in foreign words)
-R r - [err] as in "red"
-Ř ř - [zh] similar to the French "j" in "bonjour"
-S s - [ess] as in "sun"
-Š š - [sh] as in "shoe"
-T t - [teh] as in "top"
-Ť ť - [tyeh] as in "cute" (with a soft "t" sound)
-U u - [oo] as in "mood"
-Ú ú - [oo] as in "mood" (longer duration)
-Ů ů - [oo] as in "mood" (with rounded lips)
-V v - [veh] as in "van"
-W w - [dvojitévé] (rarely used, usually in foreign words)
-X x - [iks] (rarely used, usually in foreign words)
-Y y - [ee-grek] as in "yes" (rarely used, usually in foreign words)
-Ý ý - [ee-grek] as in "yes" (longer duration, rarely used, usually in foreign words)
-Z z - [zeh] as in "zebra"
-Ž ž - [zh] as in "pleasure"
+| Letter | Pronunciation |
+|--------|---------------|
+| A a    | [ah] as in "father" |
+| Á á    | [ah] as in "father" (longer duration) |
+| B b    | [beh] as in "boy" |
+| C c    | [tseh] as in "tsar" |
+| Č č    | [ch] as in "cheese" |
+| D d    | [deh] as in "dog" |
+| Ď ď    | [dyeh] as in "dune" (with a soft "d" sound) |
+| E e    | [eh] as in "bed" |
+| É é    | [eh] as in "bed" (longer duration) |
+| Ě ě    | [yeh] as in "yes" (soft "e" sound) |
+| F f    | [ef] as in "fox" |
+| G g    | [geh] as in "go" |
+| H h    | [hah] as in "house" |
+| Ch ch  | [kh] as in the Scottish "loch" |
+| I i    | [ee] as in "feet" |
+| Í í    | [ee] as in "feet" (longer duration) |
+| J j    | [yot] as in "yes" |
+| K k    | [kah] as in "key" |
+| L l    | [ell] as in "lion" |
+| M m    | [em] as in "man" |
+| N n    | [en] as in "no" |
+| Ň ň    | [nyeh] as in "canyon" (with a soft "n" sound) |
+| O o    | [oh] as in "boat" |
+| Ó ó    | [oh] as in "boat" (longer duration) |
+| P p    | [peh] as in "pen" |
+| Q q    | [kuh] (rarely used, usually in foreign words) |
+| R r    | [err] as in "red" |
+| Ř ř    | [zh] similar to the French "j" in "bonjour" |
+| S s    | [ess] as in "sun" |
+| Š š    | [sh] as in "shoe" |
+| T t    | [teh] as in "top" |
+| Ť ť    | [tyeh] as in "cute" (with a soft "t" sound) |
+| U u    | [oo] as in "mood" |
+| Ú ú    | [oo] as in "mood" (longer duration) |
+| Ů ů    | [oo] as in "mood" (with rounded lips) |
+| V v    | [veh] as in "van" |
+| W w    | [dvojitévé] (rarely used, usually in foreign words) |
+| X x    | [iks] (rarely used, usually in foreign words) |
+| Y y    | [ee-grek] as in "yes" (rarely used, usually in foreign words) |
+| Ý ý    | [ee-grek] as in "yes" (longer duration, rarely used, usually in foreign words) |
+| Z z    | [zeh] as in "zebra" |
+| Ž ž    | [zh] as in "pleasure" |
 
 See the pronounce [here](https://youtu.be/js7uAvU1q5I?si=m8eFU5vBOiVanRN4) 
 
@@ -126,10 +116,14 @@ See the pronounce [here](https://youtu.be/Ppcf_03ljKI?si=I_RZgtdn57O5S5T4)
 | Bratranec |  | male cousin |
 | Sestřenice |  | female cousin |
 ### Examples: 
-Toto je moje matka    ::: This is my mother
-Toto je můj otec         ::: This is my father 
-Toto je moje sestra    ::: This is my sister 
-Toto je můj bratr        ::: This is my brother
+
+| Czech                  | English             |
+|------------------------|---------------------|
+| Toto je moje matka     | This is my mother   |
+| Toto je můj otec       | This is my father   |
+| Toto je moje sestra    | This is my sister   |
+| Toto je můj bratr      | This is my brother  |
+
 
 ### Day vocabulary 
 | CZ | EN |
@@ -144,10 +138,13 @@ Toto je můj bratr        ::: This is my brother
 | Velmi dobře | very well |
 
 ### Examples: 
-Dobrou noc    ::: Good night
-Dobře odpoledne         ::: Good afternoon 
-Dobře ráno  ::: Good morning 
-Jak se máš?        ::: How are you?
+| Czech                | English             |
+|----------------------|---------------------|
+| Dobrou noc           | Good night          |
+| Dobře odpoledne      | Good afternoon      |
+| Dobře ráno           | Good morning        |
+| Jak se máš?          | How are you?        |
+
 
 ### omlouvat se ::: apologize 
 
