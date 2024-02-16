@@ -53,7 +53,7 @@ Czech is a fascinating and rich Slavic language spoken primarily in the Czech Re
 | Z z    | [zeh] as in "zebra" |
 | Ž ž    | [zh] as in "pleasure" |
 
-See the pronounce [here](https://youtu.be/js7uAvU1q5I?si=m8eFU5vBOiVanRN4) 
+See the pronunciation [here](https://youtu.be/js7uAvU1q5I?si=m8eFU5vBOiVanRN4) 
 
 ### Numbers 1..10
 
@@ -70,7 +70,7 @@ See the pronounce [here](https://youtu.be/js7uAvU1q5I?si=m8eFU5vBOiVanRN4)
 | 8 | osm |
 | 9 | devět |
 | 10 | deset |
-See the pronounce [here](https://youtu.be/Ppcf_03ljKI?si=I_RZgtdn57O5S5T4) 
+See the pronunciation [here](https://youtu.be/Ppcf_03ljKI?si=I_RZgtdn57O5S5T4) 
 ### Numbers 11..2
 | Číslo | Number  | Rule for Ending      |
 |-------|---------|----------------------|
@@ -84,7 +84,7 @@ See the pronounce [here](https://youtu.be/Ppcf_03ljKI?si=I_RZgtdn57O5S5T4)
 | 18    | osmnáct | -náct (add to ten)   |
 | 19    | devatenáct| -náct (add to ten) |
 | 20    | dvacet  | - (no special ending)|
-See the pronounce [here](https://youtu.be/R9hdkAW1ulU?si=UtqFQgN3UgiMduLT)
+See the pronunciation [here](https://youtu.be/R9hdkAW1ulU?si=UtqFQgN3UgiMduLT)
 ### Být - be
 
 | Tense    | Pronoun | Czech (verb) | English    |
@@ -113,7 +113,7 @@ See the pronounce [here](https://youtu.be/R9hdkAW1ulU?si=UtqFQgN3UgiMduLT)
 |          | ona     | bude         | she will be  |
 |          | ono     | bude         | it will be   |
 |          | oni     | budou        | they will be |
-
+See the pronunciation [here](https://youtu.be/7LBCStUd6dY?si=paDa2TCIE8L1fHWE)
 ### Hello
 
 | Czech | English | Formal? |
@@ -132,7 +132,7 @@ See the pronounce [here](https://youtu.be/R9hdkAW1ulU?si=UtqFQgN3UgiMduLT)
 | Děkuji | Thank you | No |
 | Prosím | Please | No |
 
-See the pronounce [here](https://youtu.be/HU4nYgFdVtA?si=W5VGNMFALe7jGg0c) and [here](https://youtu.be/P0bkUujzqtc?si=_xKGnLB6aX_JPQEN) and [here](https://youtu.be/eIoWHmfFlp4?si=3vUAWy-E3xsKdQbM)
+See the pronunciation [here](https://youtu.be/HU4nYgFdVtA?si=W5VGNMFALe7jGg0c) and [here](https://youtu.be/P0bkUujzqtc?si=_xKGnLB6aX_JPQEN) and [here](https://youtu.be/eIoWHmfFlp4?si=3vUAWy-E3xsKdQbM)
 
 ### Family vocabulary 
 | CZ | Slang | EN |
