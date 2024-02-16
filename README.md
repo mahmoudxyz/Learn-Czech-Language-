@@ -1,7 +1,85 @@
-# Learn-Czech-Language-
-Open source free documnet book style to learn Czech Language
+## Content 
+1. A0
+	1. Introduction 
+	2. Alphabet
+	3. Numbers 1..10
+	4. Být
+	5. Family vocabulary
+	6. Day vocabulary
+	7. omlouvat se
+	8. to see
+	9. vidět
+	10. zeptat se
+	11. to sit" (sedět)
 
+## Introduction 
 
+Czech is a fascinating and rich Slavic language spoken primarily in the Czech Republic, nestled in the heart of Central Europe. As you embark on your journey to master Czech, let's explore some key aspects of this beautiful language. 
+
+Czech has complex system of noun declension and verb conjugation, which adds depth and nuance to the language. Furthermore, Czech pronunciation is characterized by its distinctive sounds and accents, offering both challenges and rewards for learners.
+
+## Alphabet
+
+A a - [ah] as in "father"
+Á á - [ah] as in "father" (longer duration)
+B b - [beh] as in "boy"
+C c - [tseh] as in "tsar"
+Č č - [ch] as in "cheese"
+D d - [deh] as in "dog"
+Ď ď - [dyeh] as in "dune" (with a soft "d" sound)
+E e - [eh] as in "bed"
+É é - [eh] as in "bed" (longer duration)
+Ě ě - [yeh] as in "yes" (soft "e" sound)
+F f - [ef] as in "fox"
+G g - [geh] as in "go"
+H h - [hah] as in "house"
+Ch ch - [kh] 
+I i - [ee] as in "feet"
+Í í - [ee] as in "feet" (longer duration)
+J j - [yot] as in "yes"
+K k - [kah] as in "key"
+L l - [ell] as in "lion"
+M m - [em] as in "man"
+N n - [en] as in "no"
+Ň ň - [nyeh] as in "canyon" (with a soft "n" sound)
+O o - [oh] as in "boat"
+Ó ó - [oh] as in "boat" (longer duration)
+P p - [peh] as in "pen"
+Q q - [kuh] (rarely used, usually in foreign words)
+R r - [err] as in "red"
+Ř ř - [zh] similar to the French "j" in "bonjour"
+S s - [ess] as in "sun"
+Š š - [sh] as in "shoe"
+T t - [teh] as in "top"
+Ť ť - [tyeh] as in "cute" (with a soft "t" sound)
+U u - [oo] as in "mood"
+Ú ú - [oo] as in "mood" (longer duration)
+Ů ů - [oo] as in "mood" (with rounded lips)
+V v - [veh] as in "van"
+W w - [dvojitévé] (rarely used, usually in foreign words)
+X x - [iks] (rarely used, usually in foreign words)
+Y y - [ee-grek] as in "yes" (rarely used, usually in foreign words)
+Ý ý - [ee-grek] as in "yes" (longer duration, rarely used, usually in foreign words)
+Z z - [zeh] as in "zebra"
+Ž ž - [zh] as in "pleasure"
+
+See the pronounce [here](https://youtu.be/js7uAvU1q5I?si=m8eFU5vBOiVanRN4) 
+
+## Numbers 1..10
+
+| Czech | - |
+| ---- | ---- |
+| 1 | jedna |
+| 2 | dvě |
+| 3 | tři |
+| 4 | čtyři |
+| 5 | pět |
+| 6 | šest |
+| 7 | sedm |
+| 8 | osm |
+| 9 | devět |
+| 10 | deset |
+See the pronounce [here](https://youtu.be/Ppcf_03ljKI?si=I_RZgtdn57O5S5T4) 
 
 ## Být - be
 
@@ -31,22 +109,29 @@ Open source free documnet book style to learn Czech Language
 |          | ona     | bude         | she will be  |
 |          | ono     | bude         | it will be   |
 |          | oni     | budou        | they will be |
-### New vocabulary 
-| CZ | EN |
-| ---- | ---- |
-| Otec | Father |
-| Sestra | Sister |
-| Bratr | Brother |
-| This | Toto |
-| Moje | My (M) |
-| můj | My (F) |
+### Family vocabulary 
+| CZ | Slang | EN |
+| ---- | ---- | ---- |
+| Rodina |  | Family |
+| Otec | táta | Father |
+| Matka | máma | Mother |
+| Sestra | ségra | Sister |
+| Bratr | brácha | Brother |
+| This |  | Toto |
+| Moje |  | My (M) |
+| můj |  | My (F) |
+| Babička |  | grandma |
+| Děda |  | grandpa |
+| Teta |  | aunt |
+| Bratranec |  | male cousin |
+| Sestřenice |  | female cousin |
 ### Examples: 
 Toto je moje matka    ::: This is my mother
 Toto je můj otec         ::: This is my father 
 Toto je moje sestra    ::: This is my sister 
 Toto je můj bratr        ::: This is my brother
 
-### New vocabulary 
+### Day vocabulary 
 | CZ | EN |
 | ---- | ---- |
 | Dobře | Good |
@@ -179,103 +264,6 @@ Jak se máš?        ::: How are you?
 |          | ono     | usedne       | it will sit   |
 |          | oni     | usednou      | they will sit |
 
-
-##  Extracted Words and Their Meanings 
-
-- Život a smrt, sen a probuzení jsou stanicemi pro zmatenou duši, kterou prochází, etapu za etapou, přijímá znamení a mrkání věcí, zmítá se v moři temnot, tvrdošíjně lpí na naději, která se obnovuje úsměvem. v temnotě.
-  - Život = Life
-  - smrt = death
-  - sen = dream
-  - probuzení = awakening
-  - duše = soul
-  - etapa = stage
-  - přijímá = accepts
-  - znamení = signs
-  - mrkání = blinking
-  - věci = things
-  - moře temnot = sea of darkness
-  - naděje = hope
-  - úsměv = smile
-- Co hledáš, cestovateli? Jaké emoce vám probíhají hrudníkem? Jak upadají vaše instinkty a rozmary? Proč se chechtáte jako rytíři? Proč roníš slzy jako děti? Jste svědky radostí tanečních svátků, vidíte katův meč udeřící do krku a každý krásný či ošklivý čin začíná ve jménu Boha, Nejmilosrdnějšího, Nejmilosrdnějšího.
-  - hledáš = are you seeking
-  - cestovatel = traveler
-  - emoce = emotions
-  - probíhají = pass through
-  - hrudník = chest
-  - instinkty = instincts
-  - rozmary = whims
-  - chechtat se = laugh
-  - rytíř = knight
-  - slzy = tears
-  - svědky = witnesses
-  - radostí = joys
-  - tanečních svátků = dance festivals
-  - kat = executioner
-  - meč = sword
-  - krku = throat
-  - čin = act
-  - Boh = God
-  - Nejmilosrdnější = Most Merciful
-- Ve vašem svědomí dominují stíny zručné jako kouzelník, jako je matka, učitel, milenec a uvaděč.
-  - svědomí = conscience
-  - dominují = dominate
-  - stíny = shadows
-  - zručné = skillful
-  - kouzelník = magician
-  - matka = mother
-  - učitel = teacher
-  - milenec = lover
-  - uvaděč = guide
-- Stíny, které neodolají větrům času, ale jejich jména zůstávají korunována věčností.
-  - neodolají = withstand
-  - větry času = winds of time
-  - jména = names
-  - korunována = crowned
-  - věčnost = eternity
-- Bez ohledu na to, co mi to místo řekne, bude i nadále kapat známost, vytvářet nezapomenutelné vzpomínky a vrýt svůj dopad do srdce ve jménu vlasti.
-  - ohledu = regardless
-  - místo = place
-  - kapat = drip
-  - známost = familiarity
-  - vzpomínky = memories
-  - vrýt = carve
-  - srdce = heart
-  - vlast = homeland
-- Budu zbožňovat, dokud budu žít vůně lékárníků, minaretů a kupole, jasná tvář osvětlující uličky, muly soudu a nohy bosých, zpěvy posedlých a melodie harf, tančících koní a stromů.
-  - zbožňovat = adore
-  - žít = live
-  - vůně = scent
-  - lékárník = apothecary
-  - minaret = minaret
-  - kupole = dome
-  - uličky = alleys
-  - mula = mule
-  - soud = judgment
-  - nohy bosých = bare feet
-  - zpěvy = songs
-  - posedlých = possessed
-  - melodie = melodies
-  - harf = harp
-  - tančících = dancing
-  - koně = horses
-  - stromy = trees
-- Břečťan, kvílení holubic a vrkání holubic a moje matka ke mně mluví a říká: Den, kdy jsi se narodil.
-  - břečťan = ivy
-  - kvílení = whimpering
-  - holub = pigeon
-  - vrkání = cooing
-  - matka = mother
-  - mluví = speaks
-  - den = day
-  - narodil = born
-- Zavrtí svou nádherně utvářenou hlavou a já s radostí řeknu: "Tohle je spíš tvůj den."
-  - zavrtí = shakes
-  - utvářenou = beautifully shaped
-  - hlavou = head
-  - radostí = joy
-  - řeknu = say
-  - spíš = rather
-  - den = day
 
 
 
