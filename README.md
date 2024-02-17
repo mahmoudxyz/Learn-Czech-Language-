@@ -55,6 +55,115 @@ Czech is a fascinating and rich Slavic language spoken primarily in the Czech Re
 
 See the pronunciation [here](https://youtu.be/js7uAvU1q5I?si=m8eFU5vBOiVanRN4) 
 
+### Pronunciation
+#### Vowels – Samohlásky
+
+**Understanding Vowel Sounds:**
+
+- Vowels like **a, e, i/y, o, u** sound like the vowels in **'tuck, tech, tick, tock, took'**.
+- For **i** and **y**, they sound the same. However, the pronunciation of preceding **d, t, n** can change depending on the spelling.
+- When vowels have an acute accent (á, é, í/p, ó, ú), they're pronounced longer, similar to **'ah, eh, ee, aw, oo'** in English.
+- Except when it's the first letter in a word, the long vowel **ú** is usually written as **ů** (with a little circle), not **ú**.
+
+**Where to Put Stress:**
+- Stress is typically on the first vowel in a word, whether it's a long or short one.
+
+#### Pronunciation and Writing
+
+| Vowel | Pronunciation | Examples |
+| ---- | ---- | ---- |
+| A, Á | 'ah' | ano, ale, dal, dál, málo, malá |
+| E, É | 'eh' | ne, den, nese, krém, malé, milé |
+| I, Í/Y, O | 'ee' (i/y), 'aw' (o) | byl/bil, syn, sPr, bílP, milP, malP |
+| O, Ó | 'aw' | ona, slovo, doma, gól, móda, haló |
+| U, Ú/ů | 'oo' (ú/q) | ruka, ruku, domu, dům, úloha, domů |
+|  |  |  |
+
+#### Diphthongs (Diftongy)
+
+- **OU:** bouda, malou, náhodou, nesou
+- **AU (Borrowed Words):** auto car, automobile, autobus ‘bus’, restaurace ‘restaurant’
+- **EU (Borrowed Words):** pneumatika ‘(pneumatic) tyre’, neutralita ‘neutrality’
+
+**Other Vowel Combinations:**
+- **IE:** Anglie ‘England’, sounds like -ije (for J, see below)
+- **IO:** rádio ‘radio’, sounds like -ijo
+- **AO:** ‘a-o’ e.g. kakao ‘cocoa’
+
+Please see the pronunciation [here](https://youtu.be/XpPqc40mTp0?si=9jm8aWM419k_ALQY)
+
+
+#### Consonants – Souhlásky
+
+**Understanding Consonant Sounds:**
+
+- Consonants are sounds produced by obstructing the airflow in the vocal tract.
+- Each consonant has its own unique pronunciation, but some may sound similar to English sounds.
+
+**Tips for Pronunciation:**
+- Pay attention to how Czech consonants are pronounced, as they may differ slightly from English.
+- Practice pronouncing words containing these consonants to improve your pronunciation.
+
+#### Pronunciation and Writing
+
+| Consonant | Pronunciation              | Examples                   |
+|-----------|----------------------------|----------------------------|
+| B         | like 'b' in 'bed'          | být, babička, bába         |
+| C         | like 'ts' in 'cats'        | cena, cesta, cizí          |
+| D         | like 'd' in 'dog'          | dům, dobrý, den            |
+| F         | like 'f' in 'fun'          | fotbal, fena, fajn          |
+| G         | like 'g' in 'good'         | galaxie, guma, gól         |
+| H         | like 'h' in 'hello'        | hádat, holka, hůl          |
+| CH        | like 'ch' in 'loch'        | chléb, chci, chodit        |
+| J         | like 'y' in 'yes'          | jsem, jít, jablko          |
+| K         | like 'k' in 'kite'         | káva, kolo, kočka          |
+| L         | like 'l' in 'love'         | láska, let, louka          |
+| M         | like 'm' in 'mother'       | město, mluvit, muž         |
+| N         | like 'n' in 'nice'         | noha, nápad, nula          |
+| P         | like 'p' in 'pen'          | pes, pít, peníze           |
+| R         | like 'r' in 'run'          | ráno, ruce, rýže           |
+| Ř         | like 'r' in 'butter'       | řeka, říkat, řešit         |
+| S         | like 's' in 'sun'          | škola, síla, sedět         |
+| Š         | like 'sh' in 'shoe'        | špatně, škoda, štěstí      |
+| T         | like 't' in 'top'          | týden, tma, tolik          |
+| U         | like 'w' in 'water'        | útěk, úplně, učitel        |
+| V         | like 'v' in 'vase'         | voda, vědět, vesnice       |
+| Z         | like 'z' in 'zebra'        | země, zima, září           |
+| Ž         | like 's' in 'measure'      | život, žena, zůstat         |
+
+#### Pronunciation Tips:
+
+- **Soften Your Pronunciation:** Some consonants, like **č, ř, š, ž**, require a softer, more nuanced pronunciation (see the pronunciation in the link below).
+- **Focus on Voiced and Voiceless Consonants:** Pay attention to the distinction between voiced (B, D, G, etc.) and voiceless (P, T, K, etc.) consonants, as it can affect the pronunciation of words.
+
+Please see the pronunciation [here](https://youtu.be/v8udpCkbW1Q?si=dkI8UfZE66jYdk1r)
+
+#### Voicing and Devoicing
+
+**Understanding Voicing and Devoicing:**
+
+- Voicing refers to whether the vocal cords are vibrating or not when pronouncing a consonant.
+- Voiced consonants are pronounced with the vibration of the vocal cords, while voiceless consonants are pronounced without vibration.
+- Devoicing occurs when a voiced consonant becomes voiceless due to its position in a word or surrounding consonants.
+
+**Examples:**
+
+- **Voiced Consonants:** b, d, g, v, z, ž
+  - Pronounced with vibration of the vocal cords.
+  - Examples: bába (grandmother), dům (house), země (earth).
+
+- **Voiceless Consonants:** p, t, k, f, s, š
+  - Pronounced without vibration of the vocal cords.
+  - Examples: pes (dog), třída (class), kolo (bicycle).
+
+- **Devoicing Examples:**
+  - In some situations, voiced consonants may become voiceless:
+    - **b** in "dobrý" (good) becomes voiceless at the end of the word.
+    - **d** in "město" (city) becomes voiceless when followed by voiceless **t**.
+
+
+
+See this [playlist](https://youtube.com/playlist?list=PL49h2FexyIJanyfyUze-xb6BgTmSE8Rwz&si=qy5yrKhRLXzyYz9P) for more practice  
 ### Numbers 1..10
 
 | Czech | - |
