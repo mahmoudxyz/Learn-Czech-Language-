@@ -222,6 +222,10 @@ See the pronunciation [here](https://youtu.be/R9hdkAW1ulU?si=UtqFQgN3UgiMduLT)
 |          | ona     | bude         | she will be  |
 |          | ono     | bude         | it will be   |
 |          | oni     | budou        | they will be |
+
+**Note**: In the past  je jsem Byl (I was)  if you used the pronoun, but if you removed it, you should switch byl and jsem EX: byl jsem. The same for others
+
+
 See the pronunciation [here](https://youtu.be/7LBCStUd6dY?si=paDa2TCIE8L1fHWE)
 ### Hello
 
