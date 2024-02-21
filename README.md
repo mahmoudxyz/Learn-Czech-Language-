@@ -7,53 +7,80 @@ Czech is a fascinating and rich Slavic language spoken primarily in the Czech Re
 ## A1
 ### Alphabet
 
-| Letter | Pronunciation |
-|--------|---------------|
-| A a    | [ah] as in "father" |
-| Á á    | [ah] as in "father" (longer duration) |
-| B b    | [beh] as in "boy" |
-| C c    | [tseh] as in "tsar" |
-| Č č    | [ch] as in "cheese" |
-| D d    | [deh] as in "dog" |
-| Ď ď    | [dyeh] as in "dune" (with a soft "d" sound) |
-| E e    | [eh] as in "bed" |
-| É é    | [eh] as in "bed" (longer duration) |
-| Ě ě    | [yeh] as in "yes" (soft "e" sound) |
-| F f    | [ef] as in "fox" |
-| G g    | [geh] as in "go" |
-| H h    | [hah] as in "house" |
-| Ch ch  | [kh] as in the Scottish "loch" |
-| I i    | [ee] as in "feet" |
-| Í í    | [ee] as in "feet" (longer duration) |
-| J j    | [yot] as in "yes" |
-| K k    | [kah] as in "key" |
-| L l    | [ell] as in "lion" |
-| M m    | [em] as in "man" |
-| N n    | [en] as in "no" |
-| Ň ň    | [nyeh] as in "canyon" (with a soft "n" sound) |
-| O o    | [oh] as in "boat" |
-| Ó ó    | [oh] as in "boat" (longer duration) |
-| P p    | [peh] as in "pen" |
-| Q q    | [kuh] (rarely used, usually in foreign words) |
-| R r    | [err] as in "red" |
-| Ř ř    | [zh] similar to the French "j" in "bonjour" |
-| S s    | [ess] as in "sun" |
-| Š š    | [sh] as in "shoe" |
-| T t    | [teh] as in "top" |
-| Ť ť    | [tyeh] as in "cute" (with a soft "t" sound) |
-| U u    | [oo] as in "mood" |
-| Ú ú    | [oo] as in "mood" (longer duration) |
-| Ů ů    | [oo] as in "mood" (with rounded lips) |
-| V v    | [veh] as in "van" |
-| W w    | [dvojitévé] (rarely used, usually in foreign words) |
-| X x    | [iks] (rarely used, usually in foreign words) |
-| Y y    | [ee-grek] as in "yes" (rarely used, usually in foreign words) |
-| Ý ý    | [ee-grek] as in "yes" (longer duration, rarely used, usually in foreign words) |
-| Z z    | [zeh] as in "zebra" |
-| Ž ž    | [zh] as in "pleasure" |
 
+| Letter | Pronunciation |
+| ---- | ---- |
+| A a | [ah] as in "father" |
+| Á á | [ah] as in "father" (longer duration) |
+| B b | [beh] as in "boy" |
+| C c | [tseh] as in "tsar" |
+| Č č | [ch] as in "cheese" |
+| D d | [deh] as in "dog" |
+| Ď ď | [dyeh] as in "dune" (with a soft "d" sound) |
+| E e | [eh] as in "bed" |
+| É é | [eh] as in "bed" (longer duration) |
+| Ě ě | [yeh] as in "yes" (soft "e" sound) |
+| F f | [ef] as in "fox" |
+| G g | [geh] as in "go" |
+| H h | [hah] as in "house" |
+| Ch ch | [kh] as in the Scottish "loch" |
+| I i | [ee] as in "feet" |
+| Í í | [ee] as in "feet" (longer duration) |
+| J j | [yot] as in "yes" |
+| K k | [kah] as in "key" |
+| L l | [ell] as in "lion" |
+| M m | [em] as in "man" |
+| N n | [en] as in "no" |
+| Ň ň | [nyeh] as in "canyon" (with a soft "n" sound) |
+| O o | [oh] as in "boat" |
+| Ó ó | [oh] as in "boat" (longer duration) |
+| P p | [peh] as in "pen" |
+| Q q | [kuh] (rarely used, usually in foreign words) |
+| R r | [err] as in "red" |
+| Ř ř | [zh] similar to the French "j" in "bonjour" |
+| S s | [ess] as in "sun" |
+| Š š | [sh] as in "shoe" |
+| T t | [teh] as in "top" |
+| Ť ť | [tyeh] as in "cute" (with a soft "t" sound) |
+| U u | [oo] as in "mood" |
+| Ú ú | [oo] as in "mood" (longer duration) |
+| Ů ů | [oo] as in "mood" (with rounded lips) |
+| V v | [veh] as in "van" |
+| W w | [dvojitévé] (rarely used, usually in foreign words) |
+| X x | [iks] (rarely used, usually in foreign words) |
+| Y y | [ee-grek] as in "yes" (rarely used, usually in foreign words) |
+| Ý ý | [ee-grek] as in "yes" (longer duration, rarely used, usually in foreign words) |
+| Z z | [zeh] as in "zebra" |
+| Ž ž | [zh] as in "pleasure" |
+
+
+| Letter | Example Word | Meaning        | Letter | Example Word | Meaning        |
+|--------|--------------|----------------|--------|--------------|----------------|
+| A      | auto         | car            | N      | nůž          | knife          |
+| Á      | krása        | beauty         | Ň      | ňadra        | chest (anatomy)|
+| B      | bota         | boot           | O      | orel         | eagle          |
+| C      | Citrón          | Lemon           | Ó      | nóta         | note           |
+| Č      | čaj          | tea            | P      | pes          | dog            |
+| D      | dům          | house          | Q      | Quido         | Quid         |
+| Ď      | ďábel        | devil          | R      | ráno         | morning        |
+| E      | Eskymák          | Eskimo            | Ř      | řeka         | river          |
+| É      | prérie       | prairie        | S      | stůl         | table          |
+| Ě      | létání       | flying         | Š      | škola        | school         |
+| F      | fotbal       | football       | T      | tráva        | grass          |
+| G      | glóbus         | globe         | Ť      | ťava         | bull (archaic) |
+| H      | hora         | mountain       | U      | ulice        | street         |
+| Ch     | chléb        | bread          | Ú      | úroda        | harvest        |
+| I      | iglú        | igloo        | Ů      | dům          | house          |
+| Í      | víno         | wine           | V      | vítr         | wind           |
+| J      | jablko       | apple          | W      | WC      | whiskey        |
+| K      | kůň          | horse          | X      | xylofon      | xylophone      |
+| L      | les          | forest         | Y      | ypsilon      | epsilon (Greek)|
+| M      | most         | bridge         | Ý      | hlemýžď         | snail |
+|        |              |                | Z      | zvíře        | animal         |
+|        |              |                | Ž      | žena         | woman          |
 See the pronunciation [here](https://youtu.be/js7uAvU1q5I?si=m8eFU5vBOiVanRN4) 
 
+---
 ### Pronunciation
 #### Vowels – Samohlásky
 
@@ -163,6 +190,15 @@ Please see the pronunciation [here](https://youtu.be/v8udpCkbW1Q?si=dkI8UfZE66jY
 
 
 See this [playlist](https://youtube.com/playlist?list=PL49h2FexyIJanyfyUze-xb6BgTmSE8Rwz&si=qy5yrKhRLXzyYz9P) for more practice  
+
+---
+### Exercise-1
+
+You can find the exercise here 
+### Exercise-optional-1
+
+This is optional and for people who are interested in medical field.
+You can find the exercise here
 ### Numbers 1..10
 
 | Czech | - |
@@ -179,6 +215,9 @@ See this [playlist](https://youtube.com/playlist?list=PL49h2FexyIJanyfyUze-xb6Bg
 | 9 | devět |
 | 10 | deset |
 See the pronunciation [here](https://youtu.be/Ppcf_03ljKI?si=I_RZgtdn57O5S5T4) 
+
+---
+
 ### Numbers 11..20
 | Číslo | Number  | Rule for Ending      |
 |-------|---------|----------------------|
@@ -193,6 +232,8 @@ See the pronunciation [here](https://youtu.be/Ppcf_03ljKI?si=I_RZgtdn57O5S5T4)
 | 19    | devatenáct| -náct (add to ten) |
 | 20    | dvacet  | - (no special ending)|
 See the pronunciation [here](https://youtu.be/R9hdkAW1ulU?si=UtqFQgN3UgiMduLT)
+
+---
 ### Pronouns
 
 1. **Personal Pronouns (Osobní zájmena)**: 
@@ -262,6 +303,9 @@ See the pronunciation [here](https://youtu.be/R9hdkAW1ulU?si=UtqFQgN3UgiMduLT)
 	    - _Ourselves_ (sami) 
 	    - _Yourselves_ (sami) 
 	    - _Themselves_ (sami) 
+
+
+---
 ### Být - be
 
 | Tense    | Pronoun | Czech (verb) | English    |
@@ -295,6 +339,8 @@ See the pronunciation [here](https://youtu.be/R9hdkAW1ulU?si=UtqFQgN3UgiMduLT)
 
 
 See the pronunciation [here](https://youtu.be/7LBCStUd6dY?si=paDa2TCIE8L1fHWE)
+
+---
 ### Hello
 
 | Czech | English | Formal? |
@@ -315,6 +361,7 @@ See the pronunciation [here](https://youtu.be/7LBCStUd6dY?si=paDa2TCIE8L1fHWE)
 
 See the pronunciation [here](https://youtu.be/HU4nYgFdVtA?si=W5VGNMFALe7jGg0c) and [here](https://youtu.be/P0bkUujzqtc?si=_xKGnLB6aX_JPQEN) and [here](https://youtu.be/eIoWHmfFlp4?si=3vUAWy-E3xsKdQbM)
 
+---
 ### Nouns – Podstatná jména
 
 **Noun Gender:**
@@ -382,6 +429,7 @@ The plural forms are used when referring to more than one object or person. The 
 
 
 
+---
 ### prepositions
 
 - They are words or letters(depending on your native language) that typically express spatial or temporal relations between elements in a sentence. Prepositions indicate location, direction, time, manner, and other relationships within a sentence.
@@ -419,6 +467,8 @@ Here are some common prepositions with examples of their usage:
 10. **Pro** (for, about)
     
     - "Koupila jsem květiny pro maminku." (I bought flowers for mom.)
+
+---
 ### Czech declensions/Cases
 
 
@@ -472,6 +522,7 @@ Here are some common prepositions with examples of their usage:
     - Indicates the instrument or means by which an action is performed.
     - Example: "Píšu tužkou." (I am writing with a pencil.) Here, "tužkou" (with a pencil) is in the instrumental case, indicating the instrument used for writing.
 
+---
 ### Family vocabulary 
 | CZ | Slang | EN |
 | ---- | ---- | ---- |
@@ -498,6 +549,7 @@ Here are some common prepositions with examples of their usage:
 | Toto je můj bratr      | This is my brother  |
 
 
+---
 ### Day vocabulary 
 | CZ | EN |
 | ---- | ---- |
@@ -519,6 +571,7 @@ Here are some common prepositions with examples of their usage:
 | Jak se máš?          | How are you?        |
 
 
+---
 ### Verbs
 
 #### Verb Classes:
@@ -596,6 +649,8 @@ Other irregular verbs include:
 - **"růst"** (to grow): rostu, rosteš, roste, rosteme, rostete, rostou
 
 Source: _Lommatzsch/Adam. "Kurze tschechische Sprachlehre", Berlin: Volk und Wissen, 1996_ 
+
+---
 ### omlouvat se - apologize 
 
 | Tense    | Pronoun | Czech (verb) | English             |
@@ -625,6 +680,7 @@ Source: _Lommatzsch/Adam. "Kurze tschechische Sprachlehre", Berlin: Volk und Wis
 |          | ono     | omluví se          | it will apologize   |
 |          | oni     | omluví se          | they will apologize |
 
+---
 ### vidět - to see
 
 | Tense    | Pronoun | Czech (verb) | English        |
@@ -653,6 +709,8 @@ Source: _Lommatzsch/Adam. "Kurze tschechische Sprachlehre", Berlin: Volk und Wis
 |          | ona     | uvidí         | she will see   |
 |          | ono     | uvidí         | it will see    |
 |          | oni     | uvidí         | they will see  |
+
+---
 ### to ask" (zeptat se)
 
 | Tense    | Pronoun | Czech (verb) | English        |
@@ -682,6 +740,8 @@ Source: _Lommatzsch/Adam. "Kurze tschechische Sprachlehre", Berlin: Volk und Wis
 |          | ono     | zeptá se       | it will ask    |
 |          | oni     | zeptají se     | they will ask  |
 
+
+---
 ### to sit" (sedět)
 
 | Tense    | Pronoun | Czech (verb) | English      |
@@ -715,6 +775,8 @@ Source: _Lommatzsch/Adam. "Kurze tschechische Sprachlehre", Berlin: Volk und Wis
 
 
 
+
+---
 ###  Colors
 | Czech        | English     | Masculine Form   | Feminine Form  |
 |--------------|-------------|------------------|----------------|
@@ -747,6 +809,7 @@ Source: _Lommatzsch/Adam. "Kurze tschechische Sprachlehre", Berlin: Volk und Wis
 
 
 
+---
 ### Numbers 21 ... 100
 | Číslo | Number | Číslo | Number | Číslo | Number |
 | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -791,6 +854,8 @@ Source: _Lommatzsch/Adam. "Kurze tschechische Sprachlehre", Berlin: Volk und Wis
 | I am 23 years old | je mi 23 let |
 
 
+
+---
 
 ### Conversation (Hello)
 
