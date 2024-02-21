@@ -430,6 +430,25 @@ The plural forms are used when referring to more than one object or person. The 
 
 
 ---
+
+### Optional- GIT
+
+| Word | Meaning | Word | Meaning |
+| ---- | ---- | ---- | ---- |
+| ústní dutina | oral cavity | rty | lips |
+| gums | dásně | zub | tooth |
+| hltan | pharynx | jícen | esophagus |
+| žaludek | stomach | tenké střevo | small intestine |
+| duodenum | duodenum | jejunum | jejunum |
+| dvojtečka | colon | konečník | rectum |
+| játra | liver | slinivka břišní | pancreas |
+| anorexie | anorexia | zácpa | constipation |
+| diarrhea | průjem | karcinom žaludku | gastric carcinoma |
+| hepatitida | hepatitis | hemoroidy | hemorrhoids |
+
+---
+
+---
 ### prepositions
 
 - They are words or letters(depending on your native language) that typically express spatial or temporal relations between elements in a sentence. Prepositions indicate location, direction, time, manner, and other relationships within a sentence.
@@ -1002,6 +1021,26 @@ Source: _Lommatzsch/Adam. "Kurze tschechische Sprachlehre", Berlin: Volk und Wis
 
 
 
+
+---
+### Optional-Cardiovascular 
+| Word | Meaning | Word | Meaning |
+| ---- | ---- | ---- | ---- |
+| srdce | heart | angina pectoris | angina |
+| hypotenze | hypotension | hemolýza | hemolysis |
+| hypertenze | hypertension | heart rate | Tepová frekvence |
+| infarkt | heart attack | anémie | anemia |
+| plazma | plasma | kardiolog | cardiologist |
+| kardiologie | cardiology | kardiomegalie | cardiomegaly |
+| ateroskleróza | atherosclerosis | intravenózní | intravenous |
+| injekce | injection | bílé krvinky | white blood cells |
+| červené krvinky | red blood cells | puma | pumb |
+
+
+---
+
+
+---
 ### Transportation 
 
 | Czech         | English       | Czech          | English       |
