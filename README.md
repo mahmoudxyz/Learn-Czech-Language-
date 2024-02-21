@@ -2,8 +2,7 @@
 
 ## Introduction 
 
-Czech is a fascinating and rich Slavic language spoken primarily in the Czech Republic, nestled in the heart of Central Europe. As you embark on your journey to master Czech, let's explore some key aspects of this beautiful language. 
-
+Czech is a fascinating and rich Slavic language spoken primarily in the Czech Republic, nestled in the heart of Central Europe. 
 
 ## A1
 ### Alphabet
@@ -62,7 +61,7 @@ See the pronunciation [here](https://youtu.be/js7uAvU1q5I?si=m8eFU5vBOiVanRN4)
 
 - Vowels like **a, e, i/y, o, u** sound like the vowels in **'tuck, tech, tick, tock, took'**.
 - For **i** and **y**, they sound the same. However, the pronunciation of preceding **d, t, n** can change depending on the spelling.
-- When vowels have an acute accent (á, é, í/p, ó, ú), they're pronounced longer, similar to **'ah, eh, ee, aw, oo'** in English.
+- When vowels have an acute accent (á, é, í/-, ó, ú), they're pronounced longer, similar to **'ah, eh, ee, aw, oo'** in English.
 - Except when it's the first letter in a word, the long vowel **ú** is usually written as **ů** (with a little circle), not **ú**.
 
 **Where to Put Stress:**
@@ -76,7 +75,7 @@ See the pronunciation [here](https://youtu.be/js7uAvU1q5I?si=m8eFU5vBOiVanRN4)
 | E, É | 'eh' | ne, den, nese, krém, malé, milé |
 | I, Í/Y, O | 'ee' (i/y), 'aw' (o) | byl/bil, syn, sPr, bílP, milP, malP |
 | O, Ó | 'aw' | ona, slovo, doma, gól, móda, haló |
-| U, Ú/ů | 'oo' (ú/q) | ruka, ruku, domu, dům, úloha, domů |
+| U, Ú/ů | 'oo' (ú/ů) | ruka, ruku, domu, dům, úloha, domů |
 |  |  |  |
 
 #### Diphthongs (Diftongy)
@@ -194,6 +193,75 @@ See the pronunciation [here](https://youtu.be/Ppcf_03ljKI?si=I_RZgtdn57O5S5T4)
 | 19    | devatenáct| -náct (add to ten) |
 | 20    | dvacet  | - (no special ending)|
 See the pronunciation [here](https://youtu.be/R9hdkAW1ulU?si=UtqFQgN3UgiMduLT)
+### Pronouns
+
+1. **Personal Pronouns (Osobní zájmena)**: 
+    
+	- Inflect for person, number, and gender:
+	    
+	    - _I_ (já) 
+	    - _You (singular)_ (ty)
+	    - _He_ (on) 
+	    - _She_ (ona) 
+	    - _It_ (ono) 
+	    - _We_ (my) 
+	    - _You (plural)_ (vy) 
+	    - _They (masculine)_ (oni) 
+	    - _They (feminine)_ (ony) 
+	    - _They (neuter)_ (ona)
+	    - 
+1. **Possessive Pronouns (Přivlastňovací zájmena)**: 
+	-  Possessive pronouns indicate possession or ownership. They agree in gender, number, and case with the noun they modify:
+    
+	    - _My_ (můj) 
+	    - _Your (singular)_ (tvůj) 
+	    - _His_ (jeho) 
+	    - _Her_ (její)
+	    - _Its_ (jeho) 
+	    - _Our_ (náš)
+	    - _Your (plural)_ (váš) 
+	    - _Their (masculine)_ (jejich)
+	    - _Their (feminine)_ (jejich)
+	    - _Their (neuter)_ (jejich) 
+1. **Demonstrative Pronouns (Ukazovací zájmena)**: 
+	- Point to specific people or things. They agree in gender, number, and case with the noun they replace:
+    
+	    - _This_ (tento) 
+	    - _That_ (tamten)
+	    - _These_ (tito) 
+	    - _Those_ (tamti) 
+1. **Interrogative Pronouns (Otázková zájmena)**: 
+	- Used to ask questions. They include:
+    
+	    - _Who_ (kdo) - who
+	    - Když -when
+	    - Kde -where
+	    - jehož -whose
+	    - _What_ (co) 
+	    - _Which_ (který)
+	    - Kolik -how many
+	    - jak moc -how much
+	    - proč -why
+	    - jak -how
+1. **Indefinite Pronouns (Nevyjmenovaná zájmena)**: 
+	- Indefinite pronouns refer to nonspecific people or things:
+    
+	    - _Some_ (nějaký)
+	    - _Any_ (nějaký) 
+	    - _Every_ (každý)
+	    - _None_ (žádný) 
+	    - _All_ (všechen) 
+1. **Reflexive Pronouns (Zvratné zájmeno)**: 
+	- Used when the subject and the object of a verb refer to the same entity:
+    
+	    - _Myself_ (sám/sama/sebe) 
+	    - _Yourself_ (sám/sama/sebe)
+	    - _Himself_ (sám) 
+	    - _Herself_ (sama) 
+	    - _Itself_ (samo) 
+	    - _Ourselves_ (sami) 
+	    - _Yourselves_ (sami) 
+	    - _Themselves_ (sami) 
 ### Být - be
 
 | Tense    | Pronoun | Czech (verb) | English    |
@@ -247,6 +315,163 @@ See the pronunciation [here](https://youtu.be/7LBCStUd6dY?si=paDa2TCIE8L1fHWE)
 
 See the pronunciation [here](https://youtu.be/HU4nYgFdVtA?si=W5VGNMFALe7jGg0c) and [here](https://youtu.be/P0bkUujzqtc?si=_xKGnLB6aX_JPQEN) and [here](https://youtu.be/eIoWHmfFlp4?si=3vUAWy-E3xsKdQbM)
 
+### Nouns – Podstatná jména
+
+**Noun Gender:**
+
+- Nouns in Czech are categorized into three genders: masculine, feminine, and neuter.
+- In masculine, there's masculine animate (Mužský rod živý) and masculine inanimate(Mužský rod živý).
+- The gender of a noun is inherent and does not always correspond to biological gender. That means you will need to memorize it by heart.
+- The gender affect how we use the gender in sentences.
+
+**Example**
+
+| Masculine         | Feminine         | Neuter           |
+|-------------------|------------------|------------------|
+| muž (man)         | žena (woman)     | dítě (child)     |
+| otec (father)     | ulice (street)   | moře (sea)       |
+| student (student) | růže (rose)      | okno (window)    |
+
+#### The suffixes can indicate the gender of a profession
+
+The suffixes "-ka" and "-kyně" are **often** added to masculine nouns to denote feminine forms.
+
+| Masculine | Feminine |
+| ---- | ---- |
+| lékař (doctor) | lékařka (doctor) |
+| advokát (lawyer) | advokátka (lawyer) |
+| herec (actor) | herečka (actress) |
+| učitel (teacher) | učitelka (teacher) |
+| veterinář (veterinarian) | veterinářka (veterinarian) |
+| obchodník (merchant) | obchodnice (saleswoman) |
+
+#### Examples
+
+I found that rules for gender have exceptions which means we should just memorize them and use them a lot because trying to getting smart here will be confusing and time consuming in long term. "*This is my personal opinion*"
+
+Here are some examples to memorize:
+
+| Masculine          | Feminine           | Neuter          |
+|--------------------|--------------------|-----------------|
+| stůl (table)       | židle (chair)      | moře (sea)      |
+| pes (dog)          | kočka (cat)        | dítě (child)    |
+| otec (father)      | matka (mother)     | město (city)    |
+| kniha (book)       | kancelář (office)  | zvíře (animal)  |
+| dům (house)        | zahrada (garden)   | ovoce (fruit)   |
+| strom (tree)       | vláda (government) | kolo (bicycle)  |
+| vlak (train)       | sestra (sister)    | vejce (egg)     |
+| bratr (brother)    | žena (woman)       | zrcadlo (mirror)|
+| kůň (horse)        | knihovna (library) | kino (cinema)   |
+| telefon (telephone)| třída (classroom)  | letadlo (airplane)|
+| čaj (tea)          | restaurace (restaurant)| křeslo (armchair) |
+| auto (car)         | univerzita (university)| hnízdo (nest)   |
+
+The plural forms are used when referring to more than one object or person. The plural endings vary based on the gender of the noun and its declension pattern.
+
+#### Plural Endings by Gender:
+
+- **Masculine Nouns:**
+    - Example: muž (man) → muži (men), kniha (book) → knihy (books).
+- **Feminine Nouns:**
+    - Example: žena (woman) → ženy (women), ulice (street) → ulice (streets).
+- **Neuter Nouns:**
+    - Example: dítě (child) → děti (children), moře (sea) → moře (seas).
+
+
+
+
+
+
+### prepositions
+
+- They are words or letters(depending on your native language) that typically express spatial or temporal relations between elements in a sentence. Prepositions indicate location, direction, time, manner, and other relationships within a sentence.
+- Tare always followed by nouns
+
+Here are some common prepositions with examples of their usage:
+
+1. **V** (in, at)
+    
+    - "Jsem v domě." (I am in the house.)
+2. **Na** (on, onto)
+    
+    - "Kniha leží na stole." (The book is lying on the table.)
+3. **Pod** (under, below)
+    
+    - "Kniha pod stolem." (The book under the table.)
+4. **Před** (in front of, before)
+    
+    - "Auto stojí před domem." (The car is parked in front of the house.)
+5. **Za** (behind, after, for)
+    
+    - "Židle je za stolem." (The chair is behind the table.)
+6. **Do** (into, to)
+    
+    - "Jdu do školy." (I am going to school.)
+7. **Po** (after, along)
+    
+    - "Po cestě." (Along the road.)
+8. **S** (with)
+    
+    - "Jdu s přáteli." (I am going with friends.)
+9. **K** (to, towards)
+    
+    - "Přijdu k tobě." (I will come to you.)
+10. **Pro** (for, about)
+    
+    - "Koupila jsem květiny pro maminku." (I bought flowers for mom.)
+### Czech declensions/Cases
+
+
+
+
+1. **Nominative Case**
+    
+    - The nominative case is used for the **subject** of a sentence, the agent performing the action.
+    - The basic form, we don't have to change anything in the word form.
+    - Example: "Muž čte knihu." (The man is reading a book.) Here, "muž" (man) is in the nominative case as the subject.
+    - Used when we identify or name people and things using (This is - to je ) or using (Theses are- to jsou)
+	    - to je můj kamarád. This is my friend.
+	    - Jsou to úzké uličky. These are narrow streets
+	- When name or describing something
+		- Example:
+			- můj přítel je student  -my friend is a student
+			- můj přítel není student -my friend is not a student
+	
+1. **Genitive Case**
+	 - **Origin**: The genitive case can also indicate the origin or source of something.
+	    - Example:
+	        - English: "A story from a book."
+	        - Czech: "Příběh z knihy."
+	        - Here, "knihy" (book) is in the genitive case, indicating that the story is from the book.
+    - **Possession**: One of the primary functions of the genitive case is to indicate possession or ownership. It answers the question "whose?" in English.
+	    - Example:
+	        - English: "The house of the man."
+	        - Czech: "Dům muže."
+	        - Here, "muže" (man) is in the genitive case, indicating that the house belongs to the man.
+	
+1. **Dative Case**
+    
+    - The dative case indicates the recipient or indirect object of an action.
+    - Used without a preposition as the dative case has its basic meaning of 'to/for', e.g. giving ‘to’ or doing ‘for’:
+    - Example: "Dávám dárky dětem." (I am giving presents to the children.) Here, "dětem" (to the children) is in the dative case, indicating the recipient of the action.
+4. **Accusative Case **
+    
+    - The accusative case is used for the direct object of a transitive verb, the receiver of the action.
+    - Example: "Vidím psa." (I see a dog.) In this sentence, "psa" (dog) is in the accusative case as the direct object.
+5. **Vocative Case **
+    
+    - The vocative case is used for addressing someone or something directly.
+    - Example: "Pane učiteli!" (Mr. Teacher!) Here, "pane" (Mr.) is in the vocative case, addressing the teacher directly.
+6. **Locative Case **
+    
+    - The locative case indicates location or place where the action is taking place.
+    - Used only after prepositions
+    - Example: "Jsem ve škole." (I am at school.) Here, "ve" (at) combined with "škole" (school) is in the locative case, indicating location.
+7. **Instrumental Case **
+    
+    - Indicates the instrument or means by which an action is performed.
+    - Example: "Píšu tužkou." (I am writing with a pencil.) Here, "tužkou" (with a pencil) is in the instrumental case, indicating the instrument used for writing.
+
 ### Family vocabulary 
 | CZ | Slang | EN |
 | ---- | ---- | ---- |
@@ -255,7 +480,7 @@ See the pronunciation [here](https://youtu.be/HU4nYgFdVtA?si=W5VGNMFALe7jGg0c) a
 | Matka | máma | Mother |
 | Sestra | ségra | Sister |
 | Bratr | brácha | Brother |
-| This |  | Toto |
+| Toto |  | This |
 | Moje |  | My (M) |
 | můj |  | My (F) |
 | Babička |  | grandma |
@@ -294,6 +519,83 @@ See the pronunciation [here](https://youtu.be/HU4nYgFdVtA?si=W5VGNMFALe7jGg0c) a
 | Jak se máš?          | How are you?        |
 
 
+### Verbs
+
+#### Verb Classes:
+
+Verbs are categorized into 4 classes based on their endings:
+
+1. **First Class** (ending in -at or -át):
+   - Examples: "dělat" (to do), "dát" (to give)
+   
+|  | Singular | Plural |
+| ---- | ---- | ---- |
+| já | dělám / dám |  |
+| ty | děláš / dáš |  |
+| on/ona | dělá / dá |  |
+| my |  | děláme / dáme |
+| vy |  | děláte / dáte |
+| oni/ony/ona |  | dělají / dají |
+
+2. **Second Class** (ending in -ovat or -ýt/-ít):
+   - Examples: "kupovat" (to buy), "mýt" (to wash), "lít" (to pour)
+
+|  | Singular | Plural |
+| ---- | ---- | ---- |
+| já | kupuji / myji / liji |  |
+| ty | kupuješ / myješ / liješ |  |
+| on/ona | kupuje / myje / lije |  |
+| my |  | kupujeme / myjeme / lijeme |
+| vy |  | kupujete / myjete / lijete |
+| oni/ony/ona |  | kupují / myjí / lijí |
+
+
+3. **Third Class** (ending in -it or -et/-ět):
+   - Examples: "prosit" (to ask for, to beg), "rozumět" (to understand)
+
+|      | Singular       | Plural         |
+|------|----------------|----------------|
+| já   | prosím / rozumím  |                |
+| ty   | prosíš / rozumíš  |                |
+| on/ona | prosí / rozumí    |                |
+| my   |                | prosíme / rozumíme  |
+| vy   |                | prosíte / rozumíte  |
+| oni/ony/ona |         | prosí / rozumí      |
+
+4. **Fourth Class** (ending in -out, -ci):
+   - Examples: "zapomenout" (to forget), "moci" (can, to be able to), "nést" (to carry), "brát" (to take)
+
+|      | Singular       | Plural         |
+|------|----------------|----------------|
+| já   | zapomenu / nesu   |                |
+| ty   | zapomeneš / neseš |                |
+| on/ona | zapomene / nese   |                |
+| my   |                | zapomeneme / neseme  |
+| vy   |                | zapomenete / nesete  |
+| oni/ony/ona |         | zapomenou / nesou    |
+
+
+#### Irregular Verbs:
+
+- **"být"** (to be): jsem, jsi, je, jsme, jste, jsou
+- **"mít"** (to have): mám, máš, má, máme, máte, mají
+
+Other irregular verbs include:
+- **"chtít"** (to want): chci, chceš, chce, chceme, chcete, chtějí
+- **"vědět"** (to know): vím, víš, ví, víme, víte, ví (or vědí)
+- **"jíst"** (to eat): jím, jíš, jí, jíme, jíte, jí (or jedí)
+- **"spát"** (to sleep): spím, spíš, spí, spíme, spíte, spí
+- **"bát se"** (to be afraid): bojím se, bojíš se, bojí se, bojíme se, bojíte se, bojí se
+- **"stát"** (to stand, to cost): stojím, stojíš, stojí, stojíme, stojíte, stojí
+- **"stát se"** (to happen, to become): stanu se, staneš se, stane se, staneme se, stanete se, stanou se
+- **"číst"** (to read): čtu, čteš, čte, čteme, čtete, čtou
+- **"psát"** (to write): píšu (or píši), píšeš, píše, píšeme, píšete, píšou (or píší)
+- **"jít"** (to go - walk): jdu, jdeš, jde, jdeme, jdete, jdou
+- **"jet"** (to go - drive or ride): jedu, jedeš, jede, jedeme, jedete, jedou
+- **"vzít"** (to take): vezmu, vezmeš, vezme, vezmeme, vezmete, vezmou
+- **"růst"** (to grow): rostu, rosteš, roste, rosteme, rostete, rostou
+
+Source: _Lommatzsch/Adam. "Kurze tschechische Sprachlehre", Berlin: Volk und Wissen, 1996_ 
 ### omlouvat se - apologize 
 
 | Tense    | Pronoun | Czech (verb) | English             |
@@ -492,27 +794,27 @@ See the pronunciation [here](https://youtu.be/HU4nYgFdVtA?si=W5VGNMFALe7jGg0c) a
 
 ### Conversation (Hello)
 
-Ahoj! Jak se jmenuješ?
-Ahoj! Jmenuji se Jane, a ty?
-Já jsem Adéla.
-Jak se máš?
-Celkem dobře, díky. A ty?
-Jsem v pořádku, díky!
-Moc dobře to slyšet! Kolik ti je let?
-Je mi dvacet let, a tobě?
-Je mi devatenáct.
-Jsem student na farmaceutické fakultě v Egyptě.
-Skvělé! Studuji jazyky na Univerzitě Karlově.
-To je skvělé! Přeji ti hodně štěstí.
-Díky!
-Jaké jsou tvé koníčky?
-Rád poslouchám hudbu! Ve volném čase hraji fotbal! Rád čtu! A ty?
-Taky rád hraju fotbal! Také se mi líbí sledování filmů.
-Skutečně? Kdo je tvůj oblíbený herec nebo herečka?
-Miluji Ala Pacina! Je opravdu skvělý herec! Znáš ho?
-Ano! Viděl jsem film Kmotr.
-Skvělé! Máme společné zájmy! Teď musím jít. Na shledanou!
-Na shledanou!
+- -Ahoj! Jak se jmenuješ?
+- Ahoj! Jmenuji se Jane, a ty?
+- -Já jsem Adéla.
+- Jak se máš?
+- -Celkem dobře, díky. A ty?
+- Jsem v pořádku, díky!
+- -Moc dobře to slyšet! Kolik ti je let?
+- Je mi dvacet let, a tobě?
+- -Je mi devatenáct.
+- Jsem student na farmaceutické fakultě v Egyptě.
+- -Skvělé! Studuji jazyky na Univerzitě Karlově.
+- To je skvělé! Přeji ti hodně štěstí.
+- -Díky!
+- Jaké jsou tvé koníčky?
+- -Rád poslouchám hudbu! Ve volném čase hraji fotbal! Rád čtu! A ty?
+- Taky rád hraju fotbal! Také se mi líbí sledování filmů.
+- -Skutečně? Kdo je tvůj oblíbený herec nebo herečka?
+- Miluji Ala Pacina! Je opravdu skvělý herec! Znáš ho?
+- -Ano! Viděl jsem film Kmotr.
+- Skvělé! Máme společné zájmy! Teď musím jít. Na shledanou!
+- -Na shledanou!
 
 | Czech | English | Czech | English |
 | ---- | ---- | ---- | ---- |
