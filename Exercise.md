@@ -82,3 +82,34 @@ Memorize the following:
 | Replikace |  | Transkripce |  |
 | Translace |  | virus |  |
 | tuky |  | Očkování (vakcíny) |  |
+
+## Exercise-optional-2
+
+**Listen to the following:**
+*please note it will be very hard at this level but it's ok*, just practice 
+
+> Včera ráno jsem se probudil v mém malém domě v České republice. 
+> 
+> Venku foukal vítr a slunce osvětlovalo krásu přírody kolem. 
+> 
+> Rozhodl jsem se, že dneska pojedu na výlet do města. 
+> 
+> Vyšel jsem ven a uviděl, že mé auto má píchlou pneumatiku. 
+> 
+> Tak jsem si vzpomněl na mého přítele Quida, který je dobrý s auty. 
+> 
+> Zavolal jsem mu a on přišel s mapou a náhradní pneumatikou. 
+> 
+> Děkuji, Quido, za pomoc! Při cestě do města jsme si povídali o životě, lásce a práci. 
+> 
+> Když jsme dorazili do města, zaparkovali jsme u přístavu a šli se projít po promenádě. 
+> 
+> Uviděli jsme krásnou ženu, která fotografovala přírodu kolem řeky. 
+> 
+> Koupili jsme si kávu a přisedli jsme si k ní. 
+> 
+> Měla s sebou glóbus a ukazovala nám, kde všude byla.? 
+> 
+> Byla to úžasná chvíle plná nových zážitků a poznání.
+
+

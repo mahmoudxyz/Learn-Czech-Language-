@@ -192,13 +192,26 @@ Please see the pronunciation [here](https://youtu.be/v8udpCkbW1Q?si=dkI8UfZE66jY
 See this [playlist](https://youtube.com/playlist?list=PL49h2FexyIJanyfyUze-xb6BgTmSE8Rwz&si=qy5yrKhRLXzyYz9P) for more practice  
 
 ---
+
+---
 ### Exercise-1
 
 You can find the [exercise here](https://github.com/mahmoudxyz/Learn-Czech-Language-/blob/main/Exercise.md#exercise-1) 
+
+---
 ### Exercise-optional-1
 
 This is optional and for people who are interested in medical field.
 You can find [the exercise here](https://github.com/mahmoudxyz/Learn-Czech-Language-/blob/main/Exercise.md#exercise-optional-1)
+
+
+---
+### Exercise-optional-2
+
+This is optional and for people who are interested in medical field.
+You can find [the exercise here](https://github.com/mahmoudxyz/Learn-Czech-Language-/blob/main/Exercise.md#exercise-optional-2)
+
+---
 ### Numbers 1..10
 
 | Czech | - |
