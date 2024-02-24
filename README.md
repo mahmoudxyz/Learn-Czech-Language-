@@ -194,11 +194,11 @@ See this [playlist](https://youtube.com/playlist?list=PL49h2FexyIJanyfyUze-xb6Bg
 ---
 ### Exercise-1
 
-You can find the exercise here 
+You can find the [exercise here](https://github.com/mahmoudxyz/Learn-Czech-Language-/blob/main/Exercise.md#exercise-1) 
 ### Exercise-optional-1
 
 This is optional and for people who are interested in medical field.
-You can find the exercise here
+You can find [the exercise here](https://github.com/mahmoudxyz/Learn-Czech-Language-/blob/main/Exercise.md#exercise-optional-1)
 ### Numbers 1..10
 
 | Czech | - |
