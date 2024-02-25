@@ -604,6 +604,130 @@ Here are some common prepositions with examples of their usage:
 
 
 ---
+### Practice Time 1
+#### Introduction:
+
+1. **Introduce Yourself**: Write a short paragraph introducing yourself in Czech. Include your name, where you're from, and something interesting about you.
+
+    Example:
+    ```
+    Jmenuji se Anna. Jsem z Prahy. Ráda cestuji a poznávám nové kultury.
+    ```
+
+2. **Greetings and Pleasantries**: Practice common greetings and pleasantries in Czech, such as "Dobrý den" (Good day), "Jak se máš?" (How are you?), and appropriate responses.
+
+    Example:
+    ```
+    A: Dobrý den!
+    B: Dobrý den! Jak se máte?
+    A: Mám se dobře, děkuji. Jak se máte vy?
+    ```
+
+#### Abilities:
+
+1. **Language Proficiency**: Describe your proficiency in Czech and any other languages you speak.
+
+    Example:
+    ```
+    Mluvím česky na úrovni pokročilého. Také plynně hovořím anglicky a mám základy ve španělštině.
+    ```
+
+2. **Skills and Talents**: List some of your skills and talents in Czech.
+
+    Example:
+    ```
+    Mám dobré dovednosti v programování a ráda maluji obrazy. Také se zajímám o fotografování a cestování.
+    ```
+
+#### Interests:
+
+1. **Hobbies and Interests**: Talk about your hobbies and interests.
+
+    Example:
+    ```
+    V mém volném čase ráda čtu knihy a poslouchám hudbu různých žánrů. 
+    Také se věnuji cvičení jógy a vaření.
+    ```
+
+2. **Favorite Activities**: Describe your favorite activities and why you enjoy them.
+
+    Example:
+    ```
+    Moje oblíbené aktivity jsou cestování a fotografování, protože miluji objevování nových míst a zachycování krásných momentů. Ráda také vařím, protože mě to uklidňuje a ráda experimentuji s novými recepty.
+    ```
+
+3. **Future Goals**: Share your future goals or aspirations.
+
+    Example:
+    ```
+    V budoucnosti bych chtěla zdokonalit své dovednosti ve fotografování a možná vydat vlastní knihu s fotografiemi z cest. Také si přeji naučit se hrát na kytaru.
+    ```
+
+#### Practice Dialogue:
+
+Role-play a dialogue in Czech where you introduce yourself to someone, discuss your abilities, and talk about your interests. Practice common conversational phrases and responses.
+
+A: Dobrý den! Jak se máte?
+
+B: Dobrý den! Mám se dobře, děkuji. Jak se máte vy? 
+
+A: Také dobře, díky. Jmenuji se Anna. Jsem z Prahy. A vy? 
+
+B: Já jsem Petr. Moc mě těší. Jaké máte zájmy, Anna? 
+
+A: Ráda cestuji a fotografuji. Také se zajímám o jógu a vaření. A vy, Petr, čím se zabýváte? 
+
+B: Já jsem programátor a také rád maluji. Rád trávím čas s přáteli a cestuji po České republice. 
+
+A: To zní skvěle! Možná bychom se mohli společně podívat na nějakou výstavu. 
+
+B: Určitě! Budu se těšit.
+
+
+**Here's breakdown for them to memorize.**
+
+| **Vocabulary**                 | **Czech**                                      | **English**                                       |
+| ------------------------------ | ---------------------------------------------- | ------------------------------------------------- |
+| **Introduction**               |                                                |                                                   |
+|                                | Jmenuji se                                     | My name is                                        |
+|                                | Jsem z                                         | I am from                                         |
+|                                | Rád(a)                                         | I like                                            |
+| **Greetings and Pleasantries** |                                                |                                                   |
+|                                | Dobrý den                                      | Good day                                          |
+|                                | Jak se máš?                                    | How are you?                                      |
+|                                | Dobře                                          | Fine                                              |
+|                                | Děkuji                                         | Thank you                                         |
+|                                | Na shledanou                                   | Goodbye                                           |
+| **Abilities**                  |                                                |                                                   |
+|                                | Mluvím česky                                   | I speak Czech                                     |
+|                                | Na úrovni                                      | At the level of                                   |
+|                                | Dovednosti                                     | Skills                                            |
+|                                | Umím                                           | I can                                             |
+|                                | Trochu                                         | A little                                          |
+| **Interests**                  |                                                |                                                   |
+|                                | Volný čas                                      | Free time                                         |
+|                                | Rád(a)                                         | I like                                            |
+|                                | Zajímá mě                                      | I am interested in                                |
+|                                | Oblíbené                                       | Favorite                                          |
+|                                | Budoucnost                                     | Future                                            |
+|                                | Cíl                                            | Goal                                              |
+| **Practice Dialogue**          |                                                |                                                   |
+| **Introduction**               |                                                |                                                   |
+|                                | Jmenuji se [Your Name].                        | My name is [Your Name].                           |
+|                                | Jsem z [Your City].                            | I am from [Your City].                            |
+|                                | Rád(a) [interesting thing about yourself].     | I like [interesting thing about yourself].        |
+| **Abilities**                  |                                                |                                                   |
+|                                | Mluvím česky na úrovni [level].                | I speak Czech at the level of [level].            |
+|                                | Také umím anglicky a trochu německy.           | I can also speak English and a little German.     |
+| **Interests**                  |                                                |                                                   |
+|                                | V mém volném čase rád(a) [hobby/activity].     | In my free time, I like [hobby/activity].         |
+|                                | Také mě zajímá [interest].                     | I am also interested in [interest].               |
+| **Future Goals**               |                                                |                                                   |
+|                                | V budoucnosti bych chtěl(a) [goal/aspiration]. | In the future, I would like to [goal/aspiration]. |
+|                                | Mým cílem je [objective].                      | My goal is [objective].                           |
+| **Farewell**                   |                                                |                                                   |
+|                                | Děkuji! Na shledanou!                          | Thank you! Goodbye!                               |
+
 ### Verbs
 
 #### Verb Classes:
@@ -986,6 +1110,138 @@ Source: _Lommatzsch/Adam. "Kurze tschechische Sprachlehre", Berlin: Volk und Wis
 | V sobotu jdeme na výlet. | We are going on a trip on Saturday.     |
 | V neděli navštěvujeme rodinu. | We visit family on Sunday.          |
 
+
+P
+### Practice Time 2
+
+**1)Paragraph:**
+
+Jmenuji se Martin a jsem z Prahy. Mám dvacet pět let a studuji na univerzitě. Mluvím anglicky, německy a trochu španělsky. V mém volném čase rád cestuji a fotím. Moje rodina se skládá z maminky, tatínka a dvou bratrů. Maminka pracuje jako učitelka a tatínek je lékař. Mám staršího bratra, který je inženýr, a mladšího bratra, který je student. Jaro začíná v březnu a končí v červnu. Včera jsem šel na procházku do parku a potom jsem byl v kině. Dnes je čtvrtek a je pětadvacetý červen 2025.
+
+**Multiple-Choice Questions (MCQ):**
+
+1. Jak se jmenuje osoba z textu?
+    
+    - a) Pavel
+    - b) Martin
+    - c) Jana
+    - d) Lucie
+2. Odkud je Martin?
+    
+    - a) Brno
+    - b) Olomouc
+    - c) Praha
+    - d) Ostrava
+3. Kolik jazyků mluví Martin?
+    
+    - a) Jeden
+    - b) Dva
+    - c) Tři
+    - d) Čtyři
+4. Jaké jsou Martinovy koníčky?
+    
+    - a) Čtení a vaření
+    - b) Cestování a fotografování
+    - c) Hraní sportů a sledování filmů
+    - d) Malování a zahradničení
+5. Kolik má Martin členů v rodině?
+    
+    - a) Tři
+    - b) Čtyři
+    - c) Pět
+    - d) Šest
+6. Které roční období začíná v březnu a končí v červnu?
+    
+    - a) Zima
+    - b) Jaro
+    - c) Léto
+    - d) Podzim
+7. Co dělal Martin včera?
+    
+    - a) Chodil do kina
+    - b) Nakupoval
+    - c) Hrál fotbal
+    - d) Navštívil přátele
+8. Jaký je dnes den?
+    
+    - a) Pondělí
+    - b) Úterý
+    - c) Čtvrtek
+    - d) Pátek
+9. Jaké je dnes datum?
+    
+    - a) 15. dubna 2023
+    - b) 25. června 2025
+    - c) 1. ledna 2024
+    - d) 10. března 2022
+
+**Used words**
+
+| Czech Words | English Translation |
+| ----------- | ------------------- |
+| Jmenuji se  | My name is          |
+| Mám         | I have              |
+| Studuji     | I study             |
+| Mluvím      | I speak             |
+| Trochu      | A little            |
+| Volném čase | Free time           |
+| Rád         | Like                |
+| Rodina      | Family              |
+| Skládá z    | Consists of         |
+| Maminky     | Mom's               |
+| Tatínka     | Dad's               |
+| Bratrů      | Brothers'           |
+| Inženýr     | Engineer            |
+| Student     | Student             |
+| Začíná      | Begins              |
+| Končí       | Ends                |
+| Včera       | Yesterday           |
+| Procházku   | Walk                |
+| Parku       | Park                |
+| Kině        | Cinema              |
+| Dnes        | Today               |
+| Čtvrtek     | Thursday            |
+| Pětadvacetý | Twenty-fifth        |
+| Červen      | June                |
+
+---
+
+**E-mailem:**
+
+Předmět: Ahoj!
+
+Ahoj Petro!
+
+Doufám, že se máš dobře. Jak se ti daří? Myslel jsem na tebe a chtěl jsem ti napsat, abych se zeptal, co nového u tebe je.
+
+U mě je všechno v pořádku. Poslední dobou jsem hodně zaměstnán se školou, ale snažím se najít čas i na odpočinek. Teď se učím češtinu a je to docela zábava! Moc mi to pomáhá v každodenních situacích, protože žiju v Praze a je důležité umět se dorozumět.
+
+Jaké máš plány na tento víkend? Mám v plánu jít na výlet do přírody a trochu si odpočinout. Co ty?
+
+Napiš mi zpátky, až budeš mít čas. Těším se na tvou odpověď!
+
+S pozdravem, Martin
+
+**Used words**
+
+| Czech Words      | English Translation    |
+| ---------------- | ---------------------- |
+| Doufám           | I hope                 |
+| Máš              | You have               |
+| Daří se          | You're doing           |
+| Myslel jsem      | I thought              |
+| Poslední dobou   | Lately                 |
+| Zaměstnán        | Busy                   |
+| Učím se          | I'm learning           |
+| Zábava           | Fun                    |
+| Moc mi to pomáhá | It helps me a lot      |
+| Plány na         | Plans for              |
+| Výlet            | Trip                   |
+| Trochu           | A little               |
+| Odpočinek        | Rest                   |
+| Napiš mi zpátky  | Write me back          |
+| Těším se na      | I'm looking forward to |
+| Pozdravem        | Regards                |
 
 ### Human Body
 
